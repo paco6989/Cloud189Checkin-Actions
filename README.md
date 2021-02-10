@@ -1,5 +1,5 @@
 # Cloud189Checkin
-天翼云盘每日到一次  
+天翼云盘每日到一次 choujiang
 ##### 直接调
 1.下载或通过git克隆项目 
 2.测试环境为python3.7.6,自行安装python3  
